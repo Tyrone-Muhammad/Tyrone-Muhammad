@@ -6,7 +6,14 @@ Experienced healthcare analytics professional with more than 10 years of data an
 
 I specialize in transforming complex business requirements into actionable data solutions through advanced analytics, reporting automation, and data-driven decision making.
 
----
+## Featured Projects
+
+### Employee Attrition Prediction
+
+Machine learning and predictive analytics project focused on workforce attrition risk factors.
+
+Repository:
+https://github.com/Tyrone-Muhammad/Employee-Attrition-Prediction---
 
 ## Core Competencies
 
