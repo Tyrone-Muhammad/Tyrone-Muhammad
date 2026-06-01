@@ -1,6 +1,6 @@
 # Tyrone Muhammad, BSDA, CPC
 
-## Senior Financial Data Analyst | Healthcare Analytics | Business Intelligence
+## Healthcare Analytics Professional | Senior Financial Data Analyst | BS Data Analytics | CPC | SQL, SAS, Python, Power BI, Tableau
 
 Experienced healthcare analytics professional with more than 10 years of data analysis experience supporting Medicare, Medicaid, Commercial, Finance, Regulatory Reporting, and Risk Adjustment initiatives.
 
