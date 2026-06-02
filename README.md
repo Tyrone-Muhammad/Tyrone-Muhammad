@@ -13,7 +13,7 @@ I specialize in transforming complex business requirements into actionable data 
 Machine learning and predictive analytics project focused on workforce attrition risk factors.
 
 Repository:
-https://github.com/Tyrone-Muhammad/Employee-Attrition-Prediction---
+https://github.com/Tyrone-Muhammad/Employee-Attrition-Prediction
 
 ## Core Competencies
 
