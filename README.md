@@ -6,14 +6,44 @@ Experienced healthcare analytics professional with more than 10 years of data an
 
 I specialize in transforming complex business requirements into actionable data solutions through advanced analytics, reporting automation, and data-driven decision making.
 
-## Featured Projects
+## Featured Portfolio Projects
 
 ### Employee Attrition Prediction
 
-Machine learning and predictive analytics project focused on workforce attrition risk factors.
+Predictive analytics project utilizing machine learning techniques to identify workforce attrition risk factors and support employee retention strategies.
+
+**Key Skills Demonstrated:**
+
+* Predictive Analytics
+* Machine Learning
+* Python
+* Data Visualization
+* Business Intelligence
 
 Repository:
-https://github.com/Tyrone-Muhammad/Employee-Attrition-Prediction
+
+https://github.com/Tyrone-Muhammad/employee-attrition-prediction
+
+---
+
+### Manufacturing Defect Root Cause Analysis
+
+Statistical analysis project utilizing ANOVA and Pareto methodologies to identify manufacturing defect trends and support quality improvement initiatives.
+
+**Key Skills Demonstrated:**
+
+* Statistical Analysis
+* ANOVA
+* Hypothesis Testing
+* Pareto Analysis
+* Root Cause Analysis
+* Quality Improvement
+* Executive Reporting
+
+Repository:
+
+https://github.com/Tyrone-Muhammad/manufacturing-defect-root-cause-analysis
+
 
 ## Core Competencies
 
