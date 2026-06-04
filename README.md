@@ -1,6 +1,6 @@
 # Tyrone Muhammad, BSDA, CPC
 
-## Healthcare Analytics Professional | Senior Financial Data Analyst | BS Data Analytics | CPC | SQL, SAS, Python, Power BI, Tableau
+## 10+years Healthcare Analytics Professional | Senior Financial Data Analyst | BS Data Analytics | CPC | SQL, SAS, Python, Power BI, Tableau
 
 Experienced healthcare analytics professional with more than 10 years of data analysis experience supporting Medicare, Medicaid, Commercial, Finance, Regulatory Reporting, and Risk Adjustment initiatives.
 
@@ -78,18 +78,6 @@ https://github.com/Tyrone-Muhammad/manufacturing-defect-root-cause-analysis
 * Claims Analytics
 * Regulatory Reporting
 * Healthcare Finance
-
----
-
-## Featured Portfolio Projects
-
-### Employee Attrition Prediction
-
-Predictive analytics project utilizing machine learning techniques to identify workforce attrition risk factors and support employee retention strategies.
-
-Repository:
-
-https://github.com/Tyrone-Muhammad/Employee-Attrition-Prediction
 
 ---
 
