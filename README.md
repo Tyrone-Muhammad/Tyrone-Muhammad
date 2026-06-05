@@ -118,7 +118,3 @@ Since 2011
 LinkedIn:
 
 https://www.linkedin.com/in/tyrone-muhammad-bsda-b0a35450/
-
-Email:
-
-[tyrone.tw11@gmail.com](mailto:tyrone.tw11@gmail.com)
